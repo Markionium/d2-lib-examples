@@ -1,0 +1,4 @@
+d2
+node_modules/*
+jspm_packages/*
+*.iml
